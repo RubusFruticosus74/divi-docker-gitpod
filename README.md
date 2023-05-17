@@ -6,7 +6,7 @@ This is a [Docker Compose](https://docs.docker.com/compose/) template configured
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#[https://github.com/gitpod-io/template-docker-compose](https://github.com/RubusFruticosus74/divi-docker-gitpod))
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-docker-compose](https://github.com/RubusFruticosus74/divi-docker-gitpod))
 
 ## Get Started With Your Own Project
 
